@@ -3,8 +3,8 @@
   associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
   <class id="1" language="java" name="com.cisc181.core.Course" project="Midterm Coding Project" 
     file="/Midterm Coding Project/src/main/java/com/cisc181/core/Course.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="82" y="98"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    <position height="333" width="218" x="-20" y="-54"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
@@ -12,7 +12,7 @@
   </class>  
   <class id="2" language="java" name="com.cisc181.core.Semester" project="Midterm Coding Project" 
     file="/Midterm Coding Project/src/main/java/com/cisc181/core/Semester.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="160" width="145" x="165" y="18"/>    
+    <position height="332" width="200" x="204" y="-54"/>    
     <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -21,8 +21,8 @@
   </class>  
   <class id="3" language="java" name="com.cisc181.core.Section" project="Midterm Coding Project" 
     file="/Midterm Coding Project/src/main/java/com/cisc181/core/Section.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="388" y="98"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    <position height="332" width="214" x="413" y="-54"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
@@ -30,7 +30,7 @@
   </class>  
   <enumeration id="4" language="java" name="com.cisc181.eNums.eMajor" project="Midterm Coding Project" 
     file="/Midterm Coding Project/src/main/java/com/cisc181/eNums/eMajor.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="186" width="159" x="11" y="187"/>    
+    <position height="199" width="196" x="827" y="77"/>    
     <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -39,8 +39,8 @@
   </enumeration>  
   <class id="5" language="java" name="com.cisc181.core.Enrollment" project="Midterm Coding Project" 
     file="/Midterm Coding Project/src/main/java/com/cisc181/core/Enrollment.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="558" y="178"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    <position height="332" width="187" x="634" y="-54"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
@@ -49,7 +49,7 @@
   <class id="6" language="java" name="com.cisc181.core.PersonException" project="Midterm Coding Project" 
     file="/Midterm Coding Project/src/main/java/com/cisc181/core/PersonException.java" binary="false" 
     corner="BOTTOM_RIGHT">    
-    <position height="175" width="193" x="181" y="188"/>    
+    <position height="124" width="198" x="825" y="-54"/>    
     <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
